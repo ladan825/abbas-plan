@@ -1,0 +1,2 @@
+# abbas-plan
+first blog
