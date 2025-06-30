@@ -6,7 +6,7 @@ import ProjectDetail from './Component/projects/ProjectDetail';
 import SignIn from './Component/auth/SignIn';
 import SignUp from './Component/auth/SignUp';
 import CreateProject from './Component/projects/CreateProject';
-import ProtectedRoute from './routes/protectedRoute'; // ✅ make sure this is capitalized!
+import ProtectedRoute from './routes/ProtectedRoute'; // ✅ make sure this is capitalized!
 
 class App extends Component {
   render() {
